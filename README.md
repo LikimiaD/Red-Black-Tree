@@ -1,5 +1,8 @@
 # RBTree
 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ## Overview
 
 `RBTree` is a C++ implementation of the Red-Black Tree, a balanced binary search tree. It provides efficient operations to insert, remove, and find elements with guaranteed log(n) time complexity in the worst case. Each node in the tree is colored either red or black, and the tree maintains several balancing properties to ensure that the tree remains balanced.
